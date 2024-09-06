@@ -1,0 +1,12 @@
+Bacteria
+tcaagcgttagagaagtcattatgtgataaaaaaattcaacttggtatcaacttaactaagggtcttggtgctggtgctttgcctgatgttggtaaaggtgcagcagaagaatcaattgatgaaattatggagcatataaaagatagccatatgctctttatcacagcagggatgggtgg
+Sars-Cov
+attaaaggtttataccttcccaggtaacaaaccaaccaactttcgatctcttgtagatctgttctctaaacgaactttaaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaataactaattactgtcgttgacaggacacgagtaactcgtctatc
+_____________________________________________________
+Best score:-132
+----------------------------------------------------------------
+MEJOR ALINEAMIENTO CON MENOS GAPS
+----------------------------------------------------------------
+-tcaagcgttagagaagtcattatgtgataaaaaaattcaacttggtatcaacttaactaagggtcttggtgctggtgctttgcctgatgttggtaaaggtgca-gcagaagaatcaattgatgaaattatggagcatataaaagatagccatatgctctttatcaca-g-ca-g-g-ga-t-gggt-gg
+attaaaggtt-tataccttcccaggtaacaaaccaa-ccaactttcgatc-tcttgtagatctgt-tctctaaacgaacttt--aaaatctgtgtggctgt-cactcggctgcat-gcttagtgcactcacgcag--tataattaataactaattactgtcgttgacaggacacgagtaactcgtctatc
+----------------------------------------------------------------

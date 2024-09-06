@@ -1,0 +1,7 @@
+Influenza
+        1 atggaagcaa tatcactgat gactatacta ctggtggtaa caacaagtaa tgcagacaaa
+       61 atctgcatcg gtcaccaatc aacaaattcc
+
+Bacteria
+`	1 tcaagcgtta gagaagtcat tatgtgataa aaaaattcaa cttggtatca acttaactaa
+       61 gggtcttggt gctggtgctt tgcctgatgt tggtaaaggt

@@ -1,0 +1,11 @@
+Secuencia 1
+atggaagcaatatcactgatgactatactactggtggtaacaacaagtaatgcagacaaaatctgcatcggtcaccaatcaacaaattccacggaaactgtagacacgctaacagaaaca
+Secuencia 2
+attaaaggtttataccttcccaggtaacaaaccaaccaactttcgatctcttgtagatctgttctctaaacgaactttaaaatctgtgtggctgtcactcggctgcatgcttagtgcact
+_____________________________________________________
+Best score:-161
+MEJOR ALINEAMIENTO CON MENOS GAPS
+----------------------------------------------------------------
+atggaagcaatatcactgatgactatactactggtggtaacaacaagtaatgcagacaaaatctgcatcggt-caccaa--tcaacaaat-t-ccacggaaact-gtagacacgctaacagaaaca
+attaaaggtttat-ac--cttccca-ggtaacaaaccaaccaactttcgatctcttgtagatctg-ttctctaaacgaactttaaaatctgtgtggctgtcactcggctgcatgcttagtg-cact
+----------------------------------------------------------------
